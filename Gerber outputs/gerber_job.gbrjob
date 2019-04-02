@@ -1,0 +1,13 @@
+G04 Gerber job file.*
+%TF.FileFunction,JobInfo*%
+%TF.GenerationSoftware,Autodesk,EAGLE,8.7.1*%
+%TF.CreationDate,2019-04-02T16:55:35Z*%
+%TF.Part,Single*%
+%MOMM*%
+%TJ.B_Owner,Azuzula Cz <azuzula.cz@gmail.com>*%
+%TJ.B_ID,ATtiny programator1.1*%
+%TJ.B_LayerNum,2*%
+%TJ.B_Thickness,1.570000*%
+%TJ.B_Size_X,36.000000*%
+%TJ.B_Size_Y,47.000000*%
+M02*
